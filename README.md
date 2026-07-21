@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my profile, ski
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Y. Archana**, a Final-Year B.Tech Computer Science and Engineering student with a passion for web development and software engineering. I enjoy building responsive websites, learning new technologies, and improving my programming skills through practical projects.
+ I'm **Y. Archana**, a Final-Year B.Tech Computer Science and Engineering student with a passion for web development and software engineering. I enjoy building responsive websites, learning new technologies, and improving my programming skills through practical projects.
 
 ## 🚀 Features
 
@@ -48,7 +48,7 @@ This portfolio includes:
 
 ## 🎯 Purpose
 
-The purpose of this project is to create a professional online portfolio that highlights my skills, projects, and achievements for recruiters, internships, and job opportunities.
+The purpose of this project is to create a professional online portfolio that highlights my skills, projects.
 
 ## 📬 Contact
 
@@ -64,6 +64,4 @@ The purpose of this project is to create a professional online portfolio that hi
 - Add animations
 - Add a contact form
 
----
 
-⭐ Thank you for visiting my portfolio! Feel free to explore the project and connect with me.
