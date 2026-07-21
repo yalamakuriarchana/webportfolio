@@ -54,7 +54,7 @@ The purpose of this project is to create a professional online portfolio that hi
 
 - **Name:** Y. Archana
 - **GitHub:** https://github.com/yalamakuriarchana
-- **LinkedIn:** Add your LinkedIn profile link here
+- **LinkedIn:** https://www.linkedin.com/in/yalamakuri-archana-8a7208350
 
 ## ⭐ Future Improvements
 
